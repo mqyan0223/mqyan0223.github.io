@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-#url: https://mazhuang.org
+url: https://mqyan0223.github.io
 date_format: "ordinal"
 title: 码志
 subtitle: "公众号：mqyan的第一个blog"
